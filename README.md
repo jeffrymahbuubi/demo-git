@@ -9,7 +9,6 @@ In the **Assignment #4 demo-git**, I'll be representing on what I am doing so fa
 I'm creating index.html file and record the changes in the repository using command below, <br> Proof: `bfceac6` create index.html
 
 ```sh
->>>>>>> 617ad8a7c3111c37922e927e42d36eded53c6647
 git add index.html
 git commit -m "create index.html"
 ```
